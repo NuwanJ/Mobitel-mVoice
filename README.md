@@ -1,3 +1,5 @@
+![Apache License](https://shields.io/badge/license-Apache-blue)
+
 # Mobitel mVoice API Library
 
 This is a PHP library for Mobitel mVoice API. API Documantation and more details will be available on following links.
